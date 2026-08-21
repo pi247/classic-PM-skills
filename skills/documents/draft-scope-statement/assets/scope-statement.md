@@ -1,4 +1,4 @@
-# Scope statement — <project>
+# Scope statement - <project>
 
 ## In scope
 

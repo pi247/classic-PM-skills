@@ -25,7 +25,7 @@ Minimum sections: see `examples/context/`.
 
 ## Setup config
 
-`.classic-pm/` — `config.md`, `vocabularies.md`, `paths.md`, optional `process.md`. See `examples/.classic-pm/`.
+`.classic-pm/` - `config.md`, `vocabularies.md`, `paths.md`, optional `process.md`. See `examples/.classic-pm/`.
 
 ## Language
 

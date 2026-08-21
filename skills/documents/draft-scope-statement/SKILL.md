@@ -1,8 +1,9 @@
 ---
 name: draft-scope-statement
 description: >
-  Draft or revise a project scope statement (in/out of scope, deliverables, assumptions,
-constraints). Use when clarifying scope, preventing creep, or before building a WBS.
+  Draft or revise a project scope statement (in/out of scope, deliverables,
+  assumptions, constraints). Use when clarifying scope, preventing creep, or
+  before building a WBS.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

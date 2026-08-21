@@ -1,4 +1,4 @@
-# WBS — <project>
+# WBS - <project>
 
 1. <Control account / deliverable>
    1.1 <Work package>

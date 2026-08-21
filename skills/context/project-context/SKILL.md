@@ -1,8 +1,9 @@
 ---
 name: project-context
 description: >
-  Capture or revise project-level shared context in PROJECT_CONTEXT.md. Use when starting
-a project, refreshing boundaries/success criteria, or before drafting charter and scope.
+  Capture or revise project-level shared context in PROJECT_CONTEXT.md. Use when
+  starting a project, refreshing boundaries/success criteria, or before drafting
+  charter and scope.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

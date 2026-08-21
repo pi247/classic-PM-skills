@@ -2,7 +2,7 @@
 
 MIT agent skills for **classic project management**, written for project managers.
 
-Stress-test is a structured decision walkthrough. It surfaces every open assumption and dependency in rounds until the plan is fully aligned — before you commit resources or baseline.
+Stress-test is a structured decision walkthrough. It surfaces every open assumption and dependency in rounds until the plan is fully aligned - before you commit resources or baseline.
 
 ## Install
 
@@ -40,4 +40,4 @@ Portable shapes: [`docs/artifact-contract.md`](docs/artifact-contract.md). Examp
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).

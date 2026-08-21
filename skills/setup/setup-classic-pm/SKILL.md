@@ -1,9 +1,9 @@
 ---
 name: setup-classic-pm
 description: >
-  Configure Classic PM Skills for this workspace: tool surface, status vocabularies,
-document and context paths, and optional light process notes. Use once when adopting
-the pack or when paths/tools change.
+  Configure Classic PM Skills for this workspace: tool surface, status
+  vocabularies, document and context paths, and optional light process notes. Use
+  once when adopting the pack or when paths/tools change.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills
@@ -31,6 +31,6 @@ See `examples/.classic-pm/` in this repo for starters.
 ## Rules
 
 1. Default tool surface: `local-markdown`.
-2. Skills read paths from config — never hardcode a vendor UI.
+2. Skills read paths from config - never hardcode a vendor UI.
 3. Deep Jira/ADO/Asana/Notion/MS Project connectors are out of v1 unless paths + vocabularies are enough.
 4. After setup, offer to create empty `ORG_CONTEXT.md` / `PROJECT_CONTEXT.md` / `DECISIONS.md` at the configured paths.

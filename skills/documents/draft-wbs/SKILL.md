@@ -1,8 +1,9 @@
 ---
 name: draft-wbs
 description: >
-  Draft or revise a work breakdown structure (hierarchical decomposition of total scope).
-Use when structuring deliverables/work, planning, or the user asks for a WBS.
+  Draft or revise a work breakdown structure (hierarchical decomposition of total
+  scope). Use when structuring deliverables/work, planning, or the user asks for a
+  WBS.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

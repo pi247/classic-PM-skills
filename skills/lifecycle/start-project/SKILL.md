@@ -1,8 +1,9 @@
 ---
 name: start-project
 description: >
-  Orchestrate project initiation: context, stress-test alignment, charter and stakeholders,
-through a ready-to-plan gate. Use when kicking off a project or authorizing work.
+  Orchestrate project initiation: context, stress-test alignment, charter and
+  stakeholders, through a ready-to-plan gate. Use when kicking off a project or
+  authorizing work.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills
@@ -13,7 +14,7 @@ metadata:
 
 # Start project
 
-Orchestrator — do not duplicate document templates; call the specialist skills.
+Orchestrator - do not duplicate document templates; call the specialist skills.
 
 ## Sequence
 

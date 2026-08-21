@@ -1,8 +1,9 @@
 ---
 name: draft-stakeholder-register
 description: >
-  Draft or revise a stakeholder register (who matters, interest/influence, engagement).
-Use when identifying stakeholders, planning engagement, or the user asks for a register.
+  Draft or revise a stakeholder register (who matters, interest/influence,
+  engagement). Use when identifying stakeholders, planning engagement, or the user
+  asks for a register.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

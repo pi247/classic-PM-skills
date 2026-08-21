@@ -1,9 +1,9 @@
 ---
 name: org-context
 description: >
-  Capture or revise organisation-level shared context (governance, vocabulary, standards)
-in ORG_CONTEXT.md. Use when setting up an organisation, aligning terminology, or before
-starting projects that inherit org rules.
+  Capture or revise organisation-level shared context (governance, vocabulary,
+  standards) in ORG_CONTEXT.md. Use when setting up an organisation, aligning
+  terminology, or before starting projects that inherit org rules.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

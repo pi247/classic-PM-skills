@@ -1,8 +1,8 @@
 ---
 name: draft-risk-register
 description: >
-  Draft or revise a risk register (risks, owners, responses, status). Use when identifying
-risks, updating responses, or reviewing project health.
+  Draft or revise a risk register (risks, owners, responses, status). Use when
+  identifying risks, updating responses, or reviewing project health.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills

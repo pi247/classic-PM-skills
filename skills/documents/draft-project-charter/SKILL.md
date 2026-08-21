@@ -1,9 +1,9 @@
 ---
 name: draft-project-charter
 description: >
-  Draft or revise a project charter (authorization, objectives, high-level
-  scope, success criteria). Use when starting a project, authorizing work, or
-  the user asks for a charter.
+  Draft or revise a project charter (authorization, objectives, high-level scope,
+  success criteria). Use when starting a project, authorizing work, or the user
+  asks for a charter.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills
@@ -29,7 +29,7 @@ Use `assets/charter.md`. Skeleton:
 ## Charter skeleton
 
 ```markdown
-# Project charter — <name>
+# Project charter - <name>
 
 ## Authorization
 - Sponsor:

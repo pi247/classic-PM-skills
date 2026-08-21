@@ -1,4 +1,4 @@
-# Project charter — <name>
+# Project charter - <name>
 
 ## Authorization
 - Sponsor:

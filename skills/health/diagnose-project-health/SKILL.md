@@ -1,8 +1,8 @@
 ---
 name: diagnose-project-health
 description: >
-  Assess project health against charter, scope, WBS, risk register, and context. Use when
-status is unclear, a review is due, or before recovery planning.
+  Assess project health against charter, scope, WBS, risk register, and context.
+  Use when status is unclear, a review is due, or before recovery planning.
 license: MIT
 metadata:
   classic-pm.pack: classic-pm-skills
